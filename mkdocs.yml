@@ -1,0 +1,7 @@
+site_name: QuickServer Documents
+theme: readthedocs
+
+pages:
+- [index.md, Home]
+- [about.md, About]
+- [changelog.md, Changelog]
