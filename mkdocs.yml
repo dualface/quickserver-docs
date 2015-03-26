@@ -1,6 +1,7 @@
 site_name: QuickServer Documents
 theme: readthedocs
 
+markdown_extensions: [extra, codehilite, headerid]
 use_directory_urls: false
 
 pages:
