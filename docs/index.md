@@ -1,18 +1,17 @@
-# Welcome to MkDocs
+# Welcome to Quick Server
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Quick Server 是一个使用 Lua 脚本语言的高性能服务端框架，基于 OpenResty（Nginx + LuaJit）开发。
 
-## Commands
+主要特征:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+-   稳定可靠、经过验证的高性能服务端架构。
+-   使用 Lua 脚本语言开发服务端功能。
+-   支持短连接和长连接，满足从异步网络到实时网络的各种需求。
+-   支持插件机制，使用第三方插件加快功能开发。
 
-## Project layout
+进一步阅读：
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
+-   [Quick Server 介绍](intro.md)
+-   [Change Log](changelog.md)
+-   [安装 Quick Server](install.md)
+-   QQ群: 424776815

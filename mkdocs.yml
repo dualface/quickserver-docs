@@ -6,5 +6,9 @@ use_directory_urls: false
 
 pages:
 - [index.md, Home]
-- [about.md, About]
-- [changelog.md, Changelog]
+- [intro.md, 介绍]
+- [install.md, 安装 Quick Server]
+- [config.md, 配置 Quick Server]
+- [admin.md, 管理接口]
+- [changelog.md, Change Log]
+- [license.md, License]
