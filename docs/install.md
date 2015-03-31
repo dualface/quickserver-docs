@@ -35,7 +35,7 @@ $ sudo ./install.sh
 要使用安装配置好 Quick Server 的 Ubuntu 虚拟机文件，需要首先安装 [VirtualBox](https://www.virtualbox.org/) 虚拟机软件。
 
 -   下载 [VirtualBox](https://www.virtualbox.org/)
--   下载 [Quick Server 虚拟机](http://pan.baidu.com/s/1hqtMkra)
+-   下载 [Quick Server 虚拟机](http://pan.baidu.com/s/1c0AjD7M)
 
 1.  安装 VirtualBox 后，启动 VirtualBox，选择菜单“File -> Import Appliance”打开“Appliance to import”对话框。
 2.  选中 `quickserver-vm.ova` 文件。
