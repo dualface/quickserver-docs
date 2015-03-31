@@ -95,7 +95,6 @@ action: `monitor.getdata`
 采用 `curl` 工具调用该接口的示例如下:
 
 ```bash
-$ curl "http://quick_server_host:port/admin?action=monitor.getdata&time_span=5s"
-$ curl "http://quick_server_host:port/admin" -d "action=monitor.getdata&time_span=5m"
-$ curl "http://quick_server_host:port/admin" -d '{"action" : "monitor.getdata", "time_span" : "5h"}
+$ curl "http://quick_server_host:port/admin" \
+       -d "action=monitor.getdata&time_span=5m"
 ```

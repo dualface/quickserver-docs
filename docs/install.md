@@ -5,6 +5,7 @@ Quick Server 安装和部署可以使用两种方式：
 -   下载 Quick Server 源代码，并使用 shell 脚本进行安装，适合于在生产环境部署自己的 Quick Server 实例。
 -   使用我们提供的虚拟机，直接测试 Quick Server 环境。适合测试和开发阶段。
 
+
 ## 使用 install.sh 脚本安装
 
 首先，我们需要下载 Quick Server 代码。我们可以使用 Git 直接从 Quick Server 的代码仓库拉取。
@@ -28,7 +29,6 @@ $ sudo ./install.sh
 -   `-b, --beanstalkd`: 仅安装 Beanstalkd。
 -   `-h, --help`: 显示参数帮助。
 
-<br />
 
 ## 使用虚拟机
 
@@ -52,7 +52,6 @@ $ sudo ./install.sh
 
     ![](img/quickserver_dashboard.png)
 
-<br />
 
 ## Quick Server 的启动
 
